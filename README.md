@@ -1,0 +1,4 @@
+- Hi, I’m Gongda Lu
+- I’m interested in scentific programming.
+- I use Python in my work as a research fellow at University College London.
+- I’m also interested in Julia and R.
